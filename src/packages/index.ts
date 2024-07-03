@@ -7,4 +7,4 @@ export * from "./ListenRestClient";
 export * from "./ManageRestClient";
 export * from "./ReadRestClient";
 export * from "./SelfHostedRestClient";
-export * from "./SpeakRestClient";
+export * from "./SpeakClient";
