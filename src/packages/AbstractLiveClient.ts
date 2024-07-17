@@ -135,7 +135,7 @@ export abstract class AbstractLiveClient extends AbstractClient {
       });
       return;
     }
-    
+
     /**
      * Native websocket transport (browser)
      */
